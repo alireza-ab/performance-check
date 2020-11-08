@@ -1,0 +1,19 @@
+{
+	"name": "@alireza-ab/performance-check",
+	"version": "1.0.0",
+	"description": "a library to check code performance",
+	"main": "./src/performance.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"performance",
+		"javascript",
+		"js",
+		"checker",
+		"code"
+	],
+	"author": "alireza alibeiki",
+	"license": "MIT",
+	"dependencies": {}
+}
